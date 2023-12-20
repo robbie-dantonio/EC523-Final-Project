@@ -1,6 +1,8 @@
 # EC523-Final-Project
 Final project for BU ENG EC523: Deep Learning
 
+Team 1: Robert D’Antonio, Moisés Bensadón, Sina Karimi, and Amin HajiKhodaverdian
+
 ## .ipynb notebooks 
 We have four .ipynb notebooks in the repository, and one additional in the Best Model Single Character folder. Three of these notebooks are mostly the same, and have been used for testing different model architectures. All three have been trained at some point with varying architectures and parameters:
 * Copy of Project.ipynb
